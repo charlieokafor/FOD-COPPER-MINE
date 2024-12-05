@@ -154,13 +154,6 @@ You can customize various aspects of the pipeline based on your needs:
 - **Confusion Matrix**: Confusion matrix generated for model evaluation.
   ![Confusion Matrix](images/confusion_matrix.png)
 
-### How to Add Images to README
-To add your own images to this README, store images in the `images` folder as shown in the folder structure. Then, reference the images in Markdown syntax like this:
-
-```markdown
-![Alt Text](images/your_image.png)
-```
-
 ## Results and Performance
 - **Inference Speed**: The system is designed for real-time detection, achieving high speeds with minimal latency on compatible hardware.
 - **Accuracy**: The YOLOv8 model should be trained on high-quality, diverse data to achieve optimal accuracy in detecting foreign objects.
